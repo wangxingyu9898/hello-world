@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+I love China
 
 Hi Humans!
 Hubot here, I like Node,js and Coffeescript.
