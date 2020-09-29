@@ -1,5 +1,6 @@
 # hello-world
 Just another repository
+this is a branch test
 
 Hi Humans!
 Hubot here, I like Node,js and Coffeescript.
